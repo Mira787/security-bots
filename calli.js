@@ -57,7 +57,7 @@ calli.on("message", message => {
       .setImage(`https://media.discordapp.net/attachments/829751738717306920/835146132023279616/image0.png`)
       .setDescription(`
 👑 OwnerCode 
-(Calli#0001,AMxSakran^#3799)
+(Mira.#1234)
 🤖 Securitybots 
 (Anti Vandalism#6064)
       `)
